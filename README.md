@@ -22,7 +22,7 @@ _Ejecuta npm install para descargar todas las dependencias necesarias_
 npm install
 ```
 
-_Para arrancar el servidor y acceder a la pagina _
+_Para arrancar el servidor y acceder a la pagina_
 
 ```
 npm start
