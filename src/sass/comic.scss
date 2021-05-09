@@ -1,0 +1,11 @@
+@import "values";
+
+.comic{
+    .title-comic{
+        background-color: $color-dark;
+        color: $color-ligth;
+    }
+    &.comic-btn{
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,12 @@
+ @import 'values';
+
+.star{
+    color: $color-yellow;
+    display: inline-block;
+    font-size: 2em;
+    margin: .5em;
+    &:hover{
+        cursor: pointer;
+        color: $color-blue;
+    }
+}
